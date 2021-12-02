@@ -2,7 +2,7 @@ from nonebot.log import logger
 from httpx import AsyncClient
 import nonebot
 
-apikey = nonebot.get_driver().config.qweather_apikey
+apikey = 3e3ee241a04641069cbd8cd8a11fbc46
 if not apikey:
     raise ValueError(f"请在环境变量中添加 qweather_apikey 参数")
 url_weather_api = "https://devapi.qweather.com/v7/weather/"
