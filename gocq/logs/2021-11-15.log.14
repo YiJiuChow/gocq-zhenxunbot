@@ -1,0 +1,4 @@
+[2021-11-15 18:22:06] [WARNING]: 读取http配置失败 :yaml: unmarshal errors:
+  line 109: cannot unmarshal !!map into []struct { URL string "yaml:\"url\""; Secret string "yaml:\"secret\"" } 
+[2021-11-15 18:37:39] [WARNING]: 监听反向WS API时出现错误: websocket: close 1000 (normal) 
+[2021-11-15 18:37:41] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: websocket: close sent 

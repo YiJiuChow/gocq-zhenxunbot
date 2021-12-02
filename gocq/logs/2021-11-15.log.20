@@ -1,0 +1,6 @@
+[2021-11-15 20:06:08] [WARNING]: 读取http配置失败 :yaml: unmarshal errors:
+  line 109: cannot unmarshal !!map into []struct { URL string "yaml:\"url\""; Secret string "yaml:\"secret\"" } 
+[2021-11-15 20:06:10] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "shop.png"}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2021-11-15 20:06:10] [WARNING]: 好友消息发送失败: 消息为空. 
+[2021-11-15 20:06:41] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "shop.png"}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2021-11-15 20:06:41] [WARNING]: 好友消息发送失败: 消息为空. 

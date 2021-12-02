@@ -1,0 +1,4 @@
+[2021-11-15 19:14:37] [WARNING]: 读取http配置失败 :yaml: unmarshal errors:
+  line 109: cannot unmarshal !!map into []struct { URL string "yaml:\"url\""; Secret string "yaml:\"secret\"" } 
+[2021-11-15 19:14:37] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": EOF 
+[2021-11-15 20:04:23] [WARNING]: 监听反向WS API时出现错误: websocket: close 1000 (normal) 
