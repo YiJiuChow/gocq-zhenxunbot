@@ -1,3 +1,0 @@
-[2021-11-15 20:28:09] [WARNING]: 读取http配置失败 :yaml: unmarshal errors:
-  line 109: cannot unmarshal !!map into []struct { URL string "yaml:\"url\""; Secret string "yaml:\"secret\"" } 
-[2021-11-15 20:28:15] [WARNING]: 警告: 私聊 1942422015 消息图片上传失败: file size over max 
